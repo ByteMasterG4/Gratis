@@ -1,0 +1,24 @@
+<style>
+	body{margin: 30px;}
+	.my-container{border: 3px solid #CCC;}
+	.my-head{padding: 20px 20px 20px 20px;}
+	.my-row{border: 2px solid #CCC;}
+	.my-col{border: 2px solid #CCC;}
+	.thumb{height: 100px; width:  200px;}
+	.full{height: 600px; width:  800px;}
+	.head-row{border-bottom: 2px solid #CCC;}
+	.highlight-row :nth-child(even){background-color: #dcdcdc;}
+	.highlight-row :nth-child(odd){background-color: #aaaaaa;}
+	.wrapper{width: 350px; padding: 20px;}
+	.well{display: flex; align-items: center;}
+	.thumbnail{border: 0 none; box-shadow: none;}
+	.carousel-indicators li{background-color: #999; background-color: rgba(70,70,70,.25);}
+	.carousel-indicators .active{background-color: #444;}
+	.bar{background-color: blue;}
+	.bar h5{color: white;}
+	.pad{padding: 30px 30px 30px 30px;}
+	.rmb{margin-bottom: 60px;}
+	.cpl{padding-left: 10px;}
+	.lfmr{float: left; padding-right: 20px;}
+	.nav{margin-left: -15px; margin-right: -15px;}
+</style>
